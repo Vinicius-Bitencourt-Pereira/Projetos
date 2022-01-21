@@ -1,0 +1,7 @@
+1) - Ler meu Excel para códigos
+
+2) -  Qual o índice do novo código
+
+3) - Adicionar os novos códigos ao dataframe (Excel)
+
+4) - Atualizar meu Excel
